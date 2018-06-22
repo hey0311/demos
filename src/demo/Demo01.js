@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import * as d3 from 'd3';
-import './demo.css'
+import './Demo01.css'
 
 //条形图
 class Demo01 extends Component {

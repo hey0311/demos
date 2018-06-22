@@ -1,6 +1,5 @@
 .d3-container{
   position:relative;
-  top:15%;
-  height: 70%;
+  top:10px;
   overflow: auto;
 }
