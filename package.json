@@ -3,10 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "d3": "3.5.16",
+    "eventproxy": "^1.0.0",
+    "express": "^4.16.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "^1.1.4"
+    "react-scripts": "^1.1.4",
+    "superagent": "^3.8.3",
+    "utility": "^1.13.1"
   },
   "scripts": {
     "start": "react-scripts start",

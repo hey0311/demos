@@ -1,0 +1,9 @@
+.canvas-container{
+    position:relative;
+    top:10px;
+    overflow: auto;
+    background: #cdcdcd;
+}
+#canvas{
+    background: #fff;
+}
